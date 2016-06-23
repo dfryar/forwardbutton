@@ -19,3 +19,6 @@ Some things I could use from anyone who wishes to help:
 
 Long-term vision: I think it would be wonderful if sites would start using a "next" tag to tell the browser where the most-likely next page would be, and browsers would pre-fill the next navigation with this item. Might be hi-jacked to send you to sponsors or something, but then we could get back to third party extensions like this.
 Thank you for reading!
+
+
+I just found the fastforward-chrome extension here on github. That repo will be very valuable. The difference for my project is I will be comparing the current page url to local links, although the link name might actually be a better idea. Also, I am looking for a way to prefill the forward button with that link. Looks like chrome already enables shift-delete to navigate forward, so that part is already done.
